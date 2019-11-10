@@ -14,7 +14,8 @@ tags: [敏捷]
 
 猪想了一会儿说：“不，谢谢。我全身投入(火腿是一次性资源)，而你(鸡蛋是可再生的)只是参与而已。”
 
-![](/img/chicken-and-pig.png)
+![](/css/images/chicken-and-pig.png)
+
 一些人会认为 PO 和 Scrum Master 是 “鸡”，而开发团队是 “猪”；
 
 还有一些人认为 Scrum 团队是“猪”，而用户、客户或提供商、经理等提需求的人是“鸡”。
