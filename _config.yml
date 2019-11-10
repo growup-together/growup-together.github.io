@@ -96,7 +96,7 @@ theme: landscape
 deploy:
   type: git
   repo: git@github.com:growup-together/growup-together.github.io.git
-  branch: deploy
+  branch: master
 
 plugin:
 - hexo-generator-feed
