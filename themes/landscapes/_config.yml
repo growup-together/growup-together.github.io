@@ -3,7 +3,7 @@ menu:
   Home: /
   Archives: /archives
 rss: /atom.xml
-banner: "images/banner04.jpeg"
+banner: "images/banner05.JPG"
 
 # Content
 excerpt_link: Read More
@@ -30,7 +30,7 @@ archive_type: 'monthly'
 show_count: false
 
 # Miscellaneous
-google_analytics:
+google_analytics: UA-110810309-7
 gauges_analytics:
 favicon: /favicon.png
 twitter:
