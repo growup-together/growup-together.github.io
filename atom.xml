@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="https://www.w3.org/2005/Atom">
+  <title>一起长大技术团队</title>
+  
+  <subtitle>一起长大技术博客</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://kid17.com/"/>
+  <updated>2019-11-11T04:54:47.708Z</updated>
+  <id>https://kid17.com/</id>
+  
+  <author>
+    <name>一起长大</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Scrum 实践 - 我们是如何做敏捷开发的</title>
+    <link href="https://kid17.com/2019/11/11/how-do-we-scrum/"/>
+    <id>https://kid17.com/2019/11/11/how-do-we-scrum/</id>
+    <published>2019-11-11T04:54:47.708Z</published>
+    <updated>2019-11-11T04:54:47.708Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="敏捷" scheme="https://kid17.com/tags/%E6%95%8F%E6%8D%B7/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>鸡和猪的故事</title>
+    <link href="https://kid17.com/2019/11/10/chicken-and-pig/"/>
+    <id>https://kid17.com/2019/11/10/chicken-and-pig/</id>
+    <published>2019-11-10T08:16:32.000Z</published>
+    <updated>2019-11-11T04:54:47.708Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="敏捷" scheme="https://kid17.com/tags/%E6%95%8F%E6%8D%B7/"/>
+    
+  </entry>
+  
+</feed>
